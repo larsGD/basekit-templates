@@ -1,0 +1,2 @@
+# basekit-templates
+GitHub Pages
